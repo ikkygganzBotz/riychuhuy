@@ -75,6 +75,5 @@
 </details>
 
 ### My Partner
-YogGanz
 <a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
 [Yoga](https://github.com/YogGanz)
