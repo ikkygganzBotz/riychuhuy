@@ -76,7 +76,6 @@
 
 ### My Partner
 <a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a>
----|---
 [Riy](https://github.com/riychuhuy)
 Owner Jem-Bot
 <a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
