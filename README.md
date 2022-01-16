@@ -75,6 +75,6 @@
 </details>
 
 ### My Partner
-<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [![Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) 
+<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) 
 ---|---
 [Riy](https://github.com/riychuhuy)  | [Yoga](https://github.com/YogGanz)
