@@ -75,9 +75,7 @@
 </details>
 
 ### My Partner
-<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [![YOGA](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) 
----|---
-[RIY](https://github.com/riychuhuy)  | [YOGA](https://github.com/YogGanz)
-Owner Jem-Bot | Constributor |
+<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a>
+[RIY](https://github.com/riychuhuy)
 <a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
 [YOGA](https://github.com/YogGanz)
