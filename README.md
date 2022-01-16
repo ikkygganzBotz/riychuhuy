@@ -72,4 +72,9 @@
 
 ![Metrics](https://metrics.lecoq.io/riychuhuy?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
-</details> 
+</details>
+
+### My Partner
+YogGanz
+<a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
+[Yoga](https://github.com/YogGanz)
