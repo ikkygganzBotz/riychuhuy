@@ -77,5 +77,5 @@
 ### My Partner
  [![Riy](https://github.com/riychuhuy.png?size=150)](https://github.com/riychuhuy) | [![Yoga](https://github.com/YogGanz.png?size=150)](https://github.com/YogGanz)
 ----|----|----
-[Yoga](https://github.com/YogGanz) | [Yoga](https://github.com/YogGanz)
+[Riy](https://github.com/riychuhuy) | [Yoga](https://github.com/YogGanz)
  Owner Jem-Bot | yang nambah fitur + Bantuin Gua 🥰
