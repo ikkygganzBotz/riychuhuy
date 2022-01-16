@@ -3,7 +3,7 @@
 
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/e5bf9df8cb1100c1e4310.jpg" />
+  <img src="https://telegra.ph/file/9f8a1169ac3c1e3484964.jpg" />
 </p>
 
 <p align="center">
