@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm FERDIZ-afk  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Riy  👩‍💻 </h1>
 
 <p align='center'>
   I come from <b>Indonesia</b> I like a food called <b>meatball</b> 
@@ -9,19 +9,19 @@
         <img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=riychuhuy.riychuhuy??style=for-the-badge&logo=appveyor"></a><br>
-  <a href="https://github.com/riychuhuy"><img src="https://cardivo.vercel.app/api?name=riychuhuy&description=Hai,%20saya%20RIY%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ferdiz_afk&github=FERDIZ-afk&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/riychuhuy"><img src="https://cardivo.vercel.app/api?name=riychuhuy&description=Hai,%20saya%20RIY%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=riychuhuy&github=RIY&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/riychuhuy"><img src="https://cardivo.vercel.app/api?name=Dia&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
 
 
 <p align="center">
 <p align="center">
-<a href="#"><img title="Riy" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Riy" src="https://img.shields.io/badge/RIY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <br>
-<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="PENGGUNJUNG GITHUB"-->
+<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2RIY" alt="PENGGUNJUNG GITHUB"-->
 <p align='center'>
   <a href="https://github.com/riychuhuy"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me//6287877173955"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me//6281575886399"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://Instagram.com/riychuhuy"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 
 <h3>Languages skill :</h3>
 <br>
-<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=RIY&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIY&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
+<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=RIY&show_icons=true&locale=en&layout=compact&theme=radical" alt="RIY" /></p-->
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIY&show_icons=true&theme=radical" alt="RIY" /></p>
 
-<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="riychuhuy" /></p>
+<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=riychuhuy&show_icons=true&locale=en&theme=radical" alt="riychuhuy" /></p>
 
 # Donate
 <p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
