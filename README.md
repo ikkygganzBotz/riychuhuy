@@ -1,81 +1,84 @@
+<h1 align='center'> Hi there 👋, I'm FERDIZ-afk  👩‍💻 </h1>
 
-
-
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
-<p align="center">
-  <img src="https://telegra.ph/file/9f8a1169ac3c1e3484964.jpg" />
+<p align='center'>
+  I come from <b>Indonesia</b> I like a food called <b>meatball</b> 
 </p>
 
-<p align="center">
-
-- 👼 My name is Riy
-- 🗣️ I am 17 years old 
-- 🔭 I am not programmer
-
+  <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
+<p align='center'>
+        <img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
+        <br>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=riychuhuy.riychuhuy??style=for-the-badge&logo=appveyor"></a><br>
+  <a href="https://github.com/riychuhuy"><img src="https://cardivo.vercel.app/api?name=riychuhuy&description=Hai,%20saya%20RIY%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ferdiz_afk&github=FERDIZ-afk&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/riychuhuy"><img src="https://cardivo.vercel.app/api?name=Dia&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
-
-------
-### Connect with me ☎️
-<p align="center">
-  <a href="https://instagram.com/riyperr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/PSH6TVWFFBQFL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/Riy"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/Riy"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw"><img src="https://img.shields.io/badge/YouTube-RIYCH OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw" /><br>
-  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/riychuhuy"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=riychuhuy&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=riychuhuy&color=blue&style=flat-square&label=Profile+View"></a>
-</p>
-
-### Gta Samp Roleplay ( Stay In Kprp ) [ 🎮 ]
-<p align="center">
-  <img src="https://telegra.ph/file/6f43db7cb950fdfd3861d.jpg" />
-</p>
-
-------
-
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
-
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/riychuhuy"><img src="https://github-readme-stats.vercel.app/api?username=riychuhuy&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/riychuhuy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riychuhuy&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=riychuhuy.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=defacer.id&theme=nightowl)
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+<p align="center">
+<a href="#"><img title="Riy" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<br>
+<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="PENGGUNJUNG GITHUB"-->
+<p align='center'>
+  <a href="https://github.com/riychuhuy"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me//6287877173955"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://Instagram.com/riychuhuy"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=riychuhuy)
+___
 
-</details>
+### [`👇 MY biodata`](https://rest-api-riy.herokuapp.com)
+```
+Intro = {
+"Full Name": "Riy Kepo Ya🗿🚬",
+"Nick name": "RIY",
+"Status": "seorang penyendiri, hanya memiliki teman virtual/online, tidak mempunyai teman real live",
+"Address": "Jawa Tengah, Semarang, Indonesia",
+"Age": "17 Years Old",
+"Birthday": "20-11-2004"
+}
+```
+___
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/riychuhuy?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
-</details>
+### Sedikit tentang saya 🆖🆎 😃
 
-### My Partner
-<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a>
-[RIY](https://github.com/riychuhuy)
-<a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
-[YOGA](https://github.com/YogGanz)
+Saya hanyalah manusia biasa yang hobi untuk membuat program sederhana.
+Hal itu saya lakukan untuk mengisi kekosongan diwaktu senggang saya.
+
+- aku adalah orang yang menyukai kesendirian namun membenci kesepian😅
+- gwe sadar kalau gwe jelek gwe sadar diri kok 😂
+- aku sadar aku sedang kesepian.😣
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<p align="center">
+<!--a href="https://rest-api-riy.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/RIY-orange.svg?style=for-the-badge&logo=github"></a-->
+</p>
+
+<h3>Languages skill :</h3>
+<br>
+<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=RIY&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIY&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
+
+<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="riychuhuy" /></p>
+
+# Donate
+<p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
+
+</p>
+<ul><li><a href="https://saweria.co/riychuhuy">Saweria</a><li><a href="https://link.dana.id/qr/riychuhuy">DANA</a></li><li><a href="https://trakteer.id/riychuhuy/tip">Trakteer</a></li></ul>
+
+
+
