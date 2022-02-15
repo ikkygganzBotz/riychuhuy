@@ -7,7 +7,7 @@
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
 
 ```javascript
-const fajar = {
+const riy = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Scripting],
   tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
@@ -110,7 +110,8 @@ ___
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Keyolbot-Md&theme=highcontrast)](https://github.com/riychuhuy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz=YogGanz&theme=highcontrast)](https://github.com/YogGanz/yogames.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&repo=YogGame&theme=highcontrast)](https://github.com/YogGanz/yogames.github.io)
+
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
