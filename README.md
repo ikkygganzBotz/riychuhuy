@@ -109,8 +109,8 @@ ___
 ### 💻 Free Script Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=riychuhuy&theme=highcontrast)](https://github.com/riychuhuy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonz&repo=YogGanz&theme=highcontrast)](https://github.com/riychuhuy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Riychuhuy&repo=riychuhuy&theme=highcontrast)](https://github.com/riychuhuy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz=YogGanz&theme=highcontrast)](https://github.com/riychuhuy)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
