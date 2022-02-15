@@ -110,7 +110,7 @@ ___
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Keyolbot-Md&theme=highcontrast)](https://github.com/riychuhuy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yogganz&repo=YogGame&theme=highcontrast)](https://github.com/YogGanz/yogames.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&repo=yogames.github.io&theme=highcontrast)](https://github.com/YogGanz/yogames.github.io)
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
