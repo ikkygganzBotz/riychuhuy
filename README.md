@@ -1,7 +1,7 @@
 <h1 align="center"> Helloworld<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Riy</h1>
 
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Developer at <a href="https://api.whatsapp.com/send?phone=6281575886399&text=Assalamualaikum+Bang+Fajar">MeguminBOT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Developer at <a href="https://api.whatsapp.com/send?phone=6281575886399&text=Assalamualaikum+Bang+Riy">Riychbot-Md</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
@@ -109,8 +109,8 @@ ___
 ### 💻 Free Script Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&Keyolbot-Md=bitch&theme=highcontrast)](https://github.com/riychuhuy/Keyolbot-Md)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&repo=YogGame&theme=highcontrast)](https://github.com/YogGanz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tersakiti404-cyber&repo=riychuhuy&theme=highcontrast)](https://github.com/riychuhuy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonz&repo=YogGanz&theme=highcontrast)](https://github.com/riychuhuy)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
