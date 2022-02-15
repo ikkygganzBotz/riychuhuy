@@ -109,8 +109,8 @@ ___
 ### 💻 Free Script Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&Keyolbot-Md=bitch&theme=highcontrast)](https://github.com/riychuhuy/Keyolbot-Md)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=YogGame&theme=highcontrast)](https://github.com/YogGanz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&Keyolbot-Md=bitch&theme=highcontrast)](https://github.com/riychuhuy/Keyolbot-Md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&repo=YogGame&theme=highcontrast)](https://github.com/YogGanz)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
