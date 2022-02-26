@@ -111,7 +111,7 @@ ___
 ### 💻 Free Script Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Keyolbot-Md&theme=highcontrast)](https://github.com/riychuhuy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Riych-Bot&theme=highcontrast)](https://github.com/riychuhuy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YogGanz&repo=yogames.github.io&theme=highcontrast)](https://github.com/YogGanz/yogames.github.io)
 
 
